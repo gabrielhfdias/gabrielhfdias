@@ -21,6 +21,8 @@
 ### Sobre mim
 Analista de **URA/IVR e Canais Digitais**. Desenho experiências de atendimento (UX), **crio URAs em Low Code usando JSON**, integro **APIs REST/SOAP** (WhatsApp, e-mail, CRMs e gateways), e automatizo rotinas com **Python** e **PHP (AGI/Asterisk)**. Documentação técnica em **UML**, foco em confiabilidade, monitoramento e métricas.
 
+- **LinkedIn:** https://www.linkedin.com/in/gabriel-dias-833326153/
+
 **O que eu entrego**
 - URA/IVR gráficos e **flows Low Code (JSON)** prontos para produção.  
 - Integrações entre canais digitais (WhatsApp, voz, e-mail) e bancos de dados/serviços.  
@@ -36,4 +38,4 @@ Analista de **URA/IVR e Canais Digitais**. Desenho experiências de atendimento 
 
 ### Contato
 - **E-mail:** gabrielhfdias@outlook.com  
-- **LinkedIn:** https://www.linkedin.com/in/gabriel-dias-833326153/
+
