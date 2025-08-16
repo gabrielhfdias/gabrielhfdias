@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./1710938740012.png" alt="Gabriel Dias — Portfólio" width="100%">
+  <img src="./banner.png" alt="Gabriel Dias — Portfólio" width="100%">
 </p>
 
 <h1 align="center">Gabriel Dias — Automação • Python • API • UX • IVR • AGI</h1>
