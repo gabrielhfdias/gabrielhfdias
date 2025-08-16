@@ -31,7 +31,7 @@ Analista de **URA/IVR e Canais Digitais**. Desenho experiências de atendimento 
 - **Automação de WhatsApp, URA/IVR e e-mail**: disparos, templates, recepção de eventos, orquestração e handover.
 - **APIs & Backends** (Python/FastAPI, PHP/AGI) com **PostgreSQL** e jobs assíncronos.
 - **Versionamento & Qualidade**: Git e testes.
-- **Segurança & LGPD**: RBAC, mascaramento de dados, auditoria e boas práticas.
+- **Segurança & LGPD**: mascaramento de dados, auditoria e boas práticas.
 - **Documentação & Treinamento**: UML, guias operacionais para times.
 
 ### Projetos em destaque
